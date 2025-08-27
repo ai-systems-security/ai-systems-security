@@ -1,6 +1,6 @@
 # AI Systems Security Experiments 🛡️🤖
 
-[![Profile Views](https://komarev.com/ghpvc/?username=ai-systems-security&color=blue)](https://github.com/ai-systems-security)  [![GitHub stars](https://img.shields.io/github/stars/ai-systems-security?style=social)](https://github.com/ai-systems-security)  [![GitHub followers](https://img.shields.io/github/followers/ai-systems-security?label=Follow&style=social)](https://github.com/ai-systems-security?tab=followers) 
+[![Profile Views](https://komarev.com/ghpvc/?username=ai-systems-security&color=blue)](https://github.com/ai-systems-security)  [![GitHub stars](https://img.shields.io/github/stars/ai-systems-security?style=social)](https://github.com/ai-systems-security)  [![GitHub followers](https://img.shields.io/github/followers/ai-systems-security?label=Follow&style=social)](https://github.com/ai-systems-security?tab=followers)
 
 Welcome to my **AI Systems Security Experiments** profile! This repository collection explores **security risks in AI Agents** and **adversarial machine learning in financial AI systems**.  Hands-on projects demonstrate vulnerabilities in multi-agent systems, unsafe AI operations, and adversarial attacks on machine learning models.
 
@@ -84,7 +84,6 @@ Welcome to my **AI Systems Security Experiments** profile! This repository colle
 - **Adversarial Attacks**:  **[Fast Gradient Method (FGM)](https://arxiv.org/abs/1412.6572)**, **[Basic Iterative Method (BIM)](https://arxiv.org/abs/1607.02533)**, **[Projected Gradient Descent (PGD)](https://arxiv.org/abs/1706.06083)**, **[Carlini & Wagner (C&W)](https://arxiv.org/abs/1608.04644)**, **[ElasticNet Attack (EAD)](https://arxiv.org/abs/1709.04114)**, **[Jacobian-based Saliency Map Attack (JSMA)](https://arxiv.org/abs/1511.07528)**, **[DeepFool](https://arxiv.org/abs/1511.04599)**, **[Zeroth Order Optimization (ZOO)](https://arxiv.org/abs/1708.03999)**, **[HopSkipJump (HSJ)](https://arxiv.org/abs/1904.02144)**, **[Boundary Attack](https://arxiv.org/abs/1712.04248)** 
 - Agentic AI Research Papers
   
-
 ---
 
 Thanks for visiting my profile! 👋
