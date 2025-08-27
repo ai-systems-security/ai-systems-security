@@ -82,7 +82,7 @@ Welcome to my **AI Systems Security Experiments** profile! This repository colle
 - **[LangGraph Documentation](https://python.langchain.com/docs/langgraph)**
 - **[Neo4j Graph Database](https://neo4j.com/)**  
 - **Adversarial Attacks**:  **[Fast Gradient Method (FGM)](https://arxiv.org/abs/1412.6572)**, **[Basic Iterative Method (BIM)](https://arxiv.org/abs/1607.02533)**, **[Projected Gradient Descent (PGD)](https://arxiv.org/abs/1706.06083)**, **[Carlini & Wagner (C&W)](https://arxiv.org/abs/1608.04644)**, **[ElasticNet Attack (EAD)](https://arxiv.org/abs/1709.04114)**, **[Jacobian-based Saliency Map Attack (JSMA)](https://arxiv.org/abs/1511.07528)**, **[DeepFool](https://arxiv.org/abs/1511.04599)**, **[Zeroth Order Optimization (ZOO)](https://arxiv.org/abs/1708.03999)**, **[HopSkipJump (HSJ)](https://arxiv.org/abs/1904.02144)**, **[Boundary Attack](https://arxiv.org/abs/1712.04248)** 
-- [Agentic AI research papers & security advisories]
+- Agentic AI Research Papers
   
 
 ---
