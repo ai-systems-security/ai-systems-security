@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# AI Security Experiments 🛡️🤖
+# AI Systems Security Experiments 🛡️🤖
 
 [![Profile Views](https://komarev.com/ghpvc/?username=ai-systems-security&color=blue)](https://github.com/ai-systems-security)  
 [![GitHub followers](https://img.shields.io/github/followers/ai-systems-security?label=Follow&style=social)](https://github.com/ai-systems-security?tab=followers)  
