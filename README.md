@@ -51,20 +51,13 @@ Welcome to my **AI Systems Security Experiments** profile! This repository colle
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)  ![PyTorch](https://img.shields.io/badge/PyTorch-black?logo=pytorch&logoColor=orange)  ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white)  ![XGBoost](https://img.shields.io/badge/XGBoost-0C4A6E?logo=apache&logoColor=white)  ![Adversarial Robustness Toolbox](https://img.shields.io/badge/Adversarial%20Robustness%20Toolbox-ART-green?logo=ibm&logoColor=white)  ![TextAttack](https://img.shields.io/badge/TextAttack-red?logo=openai&logoColor=white)  ![PromptBench](https://img.shields.io/badge/PromptBench-purple?logo=github&logoColor=white)  
 
 **Databases & Graphs**  
-![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?logo=neo4j&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)  
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?logo=neo4j&logoColor=white)  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)  
 
 **LLM & Agents**  
-![LangChain](https://img.shields.io/badge/LangChain-black?logo=chainlink&logoColor=blue)  
-![LangGraph](https://img.shields.io/badge/LangGraph-orange?logo=python&logoColor=white)  
-![Ollama](https://img.shields.io/badge/Ollama-000000?logo=ollama&logoColor=white)  
-![Llama3.1](https://img.shields.io/badge/Llama-gray?logo=ai&logoColor=white)  
+![LangChain](https://img.shields.io/badge/LangChain-black?logo=chainlink&logoColor=blue)  ![LangGraph](https://img.shields.io/badge/LangGraph-orange?logo=python&logoColor=white)  ![Ollama](https://img.shields.io/badge/Ollama-000000?logo=ollama&logoColor=white)  ![Llama3.1](https://img.shields.io/badge/Llama-gray?logo=ai&logoColor=white)  
 
-**Security Standards & Risk**  
-![OWASP](https://img.shields.io/badge/OWASP%20LLM%20Top--10-Important-critical?logo=owasp&logoColor=white)  
-![NIST AI RMF](https://img.shields.io/badge/NIST%20AI%20RMF-Framework-blue?logo=gov&logoColor=white)  
-![MITRE ATLAS](https://img.shields.io/badge/MITRE-ATLAS-red?logo=mitre&logoColor=white)  
-
+**Security Standards & Regulatory Compliance**  
+![OWASP LLM Top 10](https://img.shields.io/badge/OWASP-LLM%20Top--10-red?logo=owasp&logoColor=white)  ![OWASP Machine Learning Security Top 10](https://img.shields.io/badge/OWASP-ML%20Top--10-purple?logo=owasp&logoColor=white)  ![OWASP Agentic AI Threats](https://img.shields.io/badge/OWASP-Agentic--AI--Threats-orange?logo=owasp&logoColor=white)  ![GDPR AI](https://img.shields.io/badge/GDPR-AI-blue?logo=gdpr&logoColor=white)  ![ISO/IEC 42001:2023](https://img.shields.io/badge/ISO--IEC-42001:2023-green?logo=iso&logoColor=white)  ![NIST AI RMF](https://img.shields.io/badge/NIST-AI%20RMF-blue?logo=gov&logoColor=white)  ![MITRE ATLAS](https://img.shields.io/badge/MITRE-ATLAS-red?logo=mitre&logoColor=white)
 
 ### Running Experiments
 - Agent experiments: `jupyter notebook: excessive_db_agency1.ipynb, excessive_db_agency2.ipynb`  
