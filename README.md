@@ -17,9 +17,7 @@ Here are some ideas to get you started:
 
 # AI Systems Security Experiments 🛡️🤖
 
-[![Profile Views](https://komarev.com/ghpvc/?username=ai-systems-security&color=blue)](https://github.com/ai-systems-security)  
-[![GitHub followers](https://img.shields.io/github/followers/ai-systems-security?label=Follow&style=social)](https://github.com/ai-systems-security?tab=followers)  
-[![GitHub stars](https://img.shields.io/github/stars/ai-systems-security?style=social)](https://github.com/ai-systems-security)
+[![Profile Views](https://komarev.com/ghpvc/?username=ai-systems-security&color=blue)](https://github.com/ai-systems-security)  [![GitHub followers](https://img.shields.io/github/followers/ai-systems-security?label=Follow&style=social)](https://github.com/ai-systems-security?tab=followers)  [![GitHub stars](https://img.shields.io/github/stars/ai-systems-security?style=social)](https://github.com/ai-systems-security)
 
 Welcome to my **AI Systems Security Experiments** profile! This repository collection explores **security risks in AI Agents** and **adversarial machine learning in financial AI systems**.  Hands-on projects demonstrate vulnerabilities in multi-agent systems, unsafe AI operations, and adversarial attacks on machine learning models.
 
@@ -48,12 +46,15 @@ Welcome to my **AI Systems Security Experiments** profile! This repository colle
 ### ⚒️ Tools & Tech 
 
 **AI/ML & Security Frameworks**  
+
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)  ![PyTorch](https://img.shields.io/badge/PyTorch-black?logo=pytorch&logoColor=orange)  ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white)  ![XGBoost](https://img.shields.io/badge/XGBoost-0C4A6E?logo=apache&logoColor=white)  ![Adversarial Robustness Toolbox](https://img.shields.io/badge/Adversarial%20Robustness%20Toolbox-ART-green?logo=ibm&logoColor=white)  ![TextAttack](https://img.shields.io/badge/TextAttack-red?logo=openai&logoColor=white)  ![PromptBench](https://img.shields.io/badge/PromptBench-purple?logo=github&logoColor=white)  
 
-**Databases & Graphs**  
+**Databases & Graphs** 
+
 ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?logo=neo4j&logoColor=white)  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)  
 
 **LLM & Agents**  
+
 ![LangChain](https://img.shields.io/badge/LangChain-black?logo=chainlink&logoColor=blue)  ![LangGraph](https://img.shields.io/badge/LangGraph-orange?logo=python&logoColor=white)  ![Ollama](https://img.shields.io/badge/Ollama-000000?logo=ollama&logoColor=white)  ![Llama3.1](https://img.shields.io/badge/Llama-gray?logo=ai&logoColor=white)  
 
 **Security Standards & Regulatory Compliance**  
