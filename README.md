@@ -52,14 +52,9 @@ Hands-on projects demonstrate vulnerabilities in multi-agent systems, unsafe AI 
 - **Ollama (local LLM) or any Generative AI**  
 - **LangGraph, LangChain, ART, Foolbox**
 
-### Installation
-```bash
-pip install langgraph langchain-ollama langchain langchain-community neo4j adversarial-robustness-toolbox
-```
-
 ### Running Experiments
-- Agent experiments: `jupyter notebook excessive_db_agency1.ipynb`  
-- Adversarial ML on credit scoring: `python evasion_attacks.py`
+- Agent experiments: `jupyter notebook: excessive_db_agency1.ipynb, excessive_db_agency2.ipynb`  
+- Adversarial ML on credit scoring: `jupyter notebook: bim_attack-art-logistic_regression.ipynb, cw_attack-art-logistic_regression.ipynb, deepfool_attack-art-logistic_regression.ipynb, ead_attack-art-logistic_regression.ipynb, fgm_attack-art-logistic_regression.ipynb, jsma_attack-art-logistic_regression.ipynb, pgd_attack-art-logistic_regression.ipynb`
 
 ---
 
@@ -87,4 +82,4 @@ pip install langgraph langchain-ollama langchain langchain-community neo4j adver
 
 ---
 
-Thank you for visiting my profile! 👋
+Thanks for visiting my profile! 👋
