@@ -83,10 +83,10 @@ Welcome to my **AI Systems Security Experiments** profile! This repository colle
 
 ## 📚 References
 - **OWASP: [OWASP LLM Top 10](https://owasp.org/www-project-top-10-for-large-language-model-applications/)**, **[OWASP Machine Learning Security Top 10](https://owasp.org/www-project-machine-learning-security-top-10/)**, **[OWASP Agentic AI Threats & Mitigations](https://genai.owasp.org/resource/agentic-ai-threats-and-mitigations/)**  
-- **[GDPR AI](https://gdpr-info.eu/)**  
 - **[ISO/IEC 42001:2023](https://www.iso.org/standard/42001)**  
 - **[NIST AI RMF](https://www.nist.gov/itl/ai-risk-management-framework)**  
-- **[MITRE ATLAS](https://atlas.mitre.org/)** 
+- **[MITRE ATLAS](https://atlas.mitre.org/)**
+- **[GDPR AI](https://gdpr-info.eu/)**  
 - **[LangGraph Documentation](https://python.langchain.com/docs/langgraph)**  
 - **[Neo4j Graph Database](https://neo4j.com/)**  
 - **[Adversarial Robustness Toolbox (ART)](https://adversarial-robustness-toolbox.readthedocs.io/)**:  **[Fast Gradient Method (FGM)](https://arxiv.org/abs/1412.6572)**, **[Basic Iterative Method (BIM)](https://arxiv.org/abs/1607.02533)**, **[Projected Gradient Descent (PGD)](https://arxiv.org/abs/1706.06083)**, **[Carlini & Wagner (C&W)](https://arxiv.org/abs/1608.04644)**, **[ElasticNet Attack (EAD)](https://arxiv.org/abs/1709.04114)**, **[Jacobian-based Saliency Map Attack (JSMA)](https://arxiv.org/abs/1511.07528)**, **[DeepFool](https://arxiv.org/abs/1511.04599)**, **[Zeroth Order Optimization (ZOO)](https://arxiv.org/abs/1708.03999)**, **[HopSkipJump (HSJ)](https://arxiv.org/abs/1904.02144)**, **[Boundary Attack](https://arxiv.org/abs/1712.04248)** 
