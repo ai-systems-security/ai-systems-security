@@ -1,13 +1,3 @@
-## Hi there 👋
-
-- 👨‍💻 I am an **AI Security Engineer** with a Masters Degree in **Cybersecurity** and **AI** specializing in agentic AI security, multi-agent system vulnerabilities, and adversarial machine learning.  
-- 🔭 I’m currently working on **attacking and securing agentic AI systems**, including multi-agent frameworks, LangGraph experiments, and adversarial ML in financial AI.  
-- 👯 I’m looking to collaborate on **open-source AI security tools, threat simulations, and RAG-based LLM safety experiments**.  
-- 🤔 I’m looking for help with **developing robust multi-agent security policies and automated monitoring for agentic AI**.  
-- 💬 Ask me about **LLM prompt injection, multi-agent security attacks, adversarial ML in finance, and ethical AI deployment**.  
-- 📫 How to reach me: **[beteaberra@gmail.com], [baberra@kifiya.com]**  
-- ⚡ Fun fact: **I run experiments where AI agents try to hack themselves… safely, of course 😉**
-
 # AI Systems Security Experiments 🛡️🤖
 
 [![Profile Views](https://komarev.com/ghpvc/?username=ai-systems-security&color=blue)](https://github.com/ai-systems-security)  [![GitHub followers](https://img.shields.io/github/followers/ai-systems-security?label=Follow&style=social)](https://github.com/ai-systems-security?tab=followers)  [![GitHub stars](https://img.shields.io/github/stars/ai-systems-security?style=social)](https://github.com/ai-systems-security)
@@ -57,6 +47,18 @@ Welcome to my **AI Systems Security Experiments** profile! This repository colle
 ### Running Experiments
 - Agent experiments: `jupyter notebook: excessive_db_agency1.ipynb, excessive_db_agency2.ipynb`  
 - Adversarial ML on credit scoring: `jupyter notebook: bim_attack-art-logistic_regression.ipynb, cw_attack-art-logistic_regression.ipynb, deepfool_attack-art-logistic_regression.ipynb, ead_attack-art-logistic_regression.ipynb, fgm_attack-art-logistic_regression.ipynb, jsma_attack-art-logistic_regression.ipynb, pgd_attack-art-logistic_regression.ipynb, boundary _attack(targeted)_attack-art-logistic_regression.ipynb, boundary _attack(untargeted)_attack-art-logistic_regression.ipynb, hsj_attack-art-logistic_regression.ipynb, zoo_attack-art-logistic_regression.ipynb`
+
+---
+
+## 👨‍💻 About Me
+
+- 👨‍💻 I am an **AI Security Engineer** with a Masters Degree in **Cybersecurity** and **AI** specializing in agentic AI security, multi-agent system vulnerabilities, and adversarial machine learning.  
+- 🔭 I’m currently working on **attacking and securing agentic AI systems**, including multi-agent frameworks, LangGraph experiments, and adversarial ML in financial AI.  
+- 👯 I’m looking to collaborate on **open-source AI security tools, threat simulations, and RAG-based LLM safety experiments**.  
+- 🤔 I’m looking for help with **developing robust multi-agent security policies and automated monitoring for agentic AI**.  
+- 💬 Ask me about **LLM prompt injection, multi-agent security attacks, adversarial ML in finance, and ethical AI deployment**.  
+- 📫 How to reach me: **[beteaberra@gmail.com], [baberra@kifiya.com]**  
+- ⚡ Fun fact: **I run experiments where AI agents try to hack themselves… safely, of course 😉**
 
 ---
 
