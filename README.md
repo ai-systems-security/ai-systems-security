@@ -1,19 +1,12 @@
 ## Hi there 👋
 
-<!--
-**ai-systems-security/ai-systems-security** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 I am an **AI Security Engineer** with a Masters Degree in **Cybersecurity** and **AI** specializing in agentic AI security, multi-agent system vulnerabilities, and adversarial machine learning.  
+- 🔭 I’m currently working on **attacking and securing agentic AI systems**, including multi-agent frameworks, LangGraph experiments, and adversarial ML in financial AI.  
+- 👯 I’m looking to collaborate on **open-source AI security tools, threat simulations, and RAG-based LLM safety experiments**.  
+- 🤔 I’m looking for help with **developing robust multi-agent security policies and automated monitoring for agentic AI**.  
+- 💬 Ask me about **LLM prompt injection, multi-agent security attacks, adversarial ML in finance, and ethical AI deployment**.  
+- 📫 How to reach me: **[beteaberra@gmail.com], [baberra@kifiya.com]**  
+- ⚡ Fun fact: **I run experiments where AI agents try to hack themselves… safely, of course 😉**
 
 # AI Systems Security Experiments 🛡️🤖
 
