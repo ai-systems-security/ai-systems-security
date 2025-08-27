@@ -82,12 +82,17 @@ Welcome to my **AI Systems Security Experiments** profile! This repository colle
 ---
 
 ## 📚 References
-- [OWASP Top 10 for LLM Applications](https://owasp.org/www-project-top-10-for-llm-applications/)  
-- [OWASP ML Security Top 10 (2023)](https://owasp.org/www-project-machine-learning-security-top-10/)  
+- [OWASP LLM Top 10](https://owasp.org/www-project-top-10-for-large-language-model-applications/)  
+- [OWASP Machine Learning Security Top 10](https://owasp.org/www-project-machine-learning-security-top-10/)  
+- [OWASP Agentic AI Threats & Mitigations](https://genai.owasp.org/resource/agentic-ai-threats-and-mitigations/)  
+- [GDPR AI](https://gdpr-info.eu/)  
+- [ISO/IEC 42001:2023](https://www.iso.org/standard/42001)  
+- [NIST AI RMF](https://www.nist.gov/itl/ai-risk-management-framework)  
+- [MITRE ATLAS](https://atlas.mitre.org/) 
 - [LangGraph Documentation](https://python.langchain.com/docs/langgraph)  
 - [Neo4j Graph Database](https://neo4j.com/)  
 - [Adversarial Robustness Toolbox (ART)](https://github.com/Trusted-AI/adversarial-robustness-toolbox)  
-- [Agentic AI research papers & security advisories]  
+- [Agentic AI research papers & security advisories]
 
 ---
 
