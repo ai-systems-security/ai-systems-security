@@ -58,7 +58,7 @@ Welcome to my **AI Systems Security Experiments** profile! This repository colle
 - 🤔 I’m looking for help with **developing robust multi-agent security policies and automated monitoring for agentic AI**.  
 - 💬 Ask me about **LLM prompt injection, multi-agent security attacks, adversarial ML in finance, and ethical AI deployment**.  
 - 📫 How to reach me: **[beteaberra@gmail.com]**  
-- ⚡ Fun fact: **I run experiments where AI agents try to hack themselves… safely, of course 😉**
+- ⚡ Fun fact: **I'm tying to run experiments where AI agents try to hack themselves… safely, of course 😉**
 
 ---
 
