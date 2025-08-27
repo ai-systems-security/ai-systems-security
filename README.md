@@ -48,13 +48,7 @@ Welcome to my **AI Systems Security Experiments** profile! This repository colle
 ### ⚒️ Tools & Tech 
 
 **AI/ML & Security Frameworks**  
-![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)  
-![PyTorch](https://img.shields.io/badge/PyTorch-black?logo=pytorch&logoColor=orange)  
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white)  
-![XGBoost](https://img.shields.io/badge/XGBoost-0C4A6E?logo=apache&logoColor=white)  
-![Adversarial Robustness Toolbox](https://img.shields.io/badge/Adversarial%20Robustness%20Toolbox-ART-green?logo=ibm&logoColor=white)  
-![TextAttack](https://img.shields.io/badge/TextAttack-red?logo=openai&logoColor=white)  
-![PromptBench](https://img.shields.io/badge/PromptBench-purple?logo=github&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)  ![PyTorch](https://img.shields.io/badge/PyTorch-black?logo=pytorch&logoColor=orange)  ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white)  ![XGBoost](https://img.shields.io/badge/XGBoost-0C4A6E?logo=apache&logoColor=white)  ![Adversarial Robustness Toolbox](https://img.shields.io/badge/Adversarial%20Robustness%20Toolbox-ART-green?logo=ibm&logoColor=white)  ![TextAttack](https://img.shields.io/badge/TextAttack-red?logo=openai&logoColor=white)  ![PromptBench](https://img.shields.io/badge/PromptBench-purple?logo=github&logoColor=white)  
 
 **Databases & Graphs**  
 ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?logo=neo4j&logoColor=white)  
