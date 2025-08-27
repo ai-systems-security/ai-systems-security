@@ -55,9 +55,10 @@ Welcome to my **AI Systems Security Experiments** profile! This repository colle
 
 **LLM & Agents**  
 
-![LangChain](https://img.shields.io/badge/LangChain-black?logo=chainlink&logoColor=blue)  ![LangGraph](https://img.shields.io/badge/LangGraph-orange?logo=python&logoColor=white)  ![Ollama](https://img.shields.io/badge/Ollama-000000?logo=ollama&logoColor=white)  ![Llama3.1](https://img.shields.io/badge/Llama-gray?logo=ai&logoColor=white)  
+![LangChain](https://img.shields.io/badge/LangChain-black?logo=chainlink&logoColor=blue)  ![LangGraph](https://img.shields.io/badge/LangGraph-orange?logo=python&logoColor=white)  ![Ollama](https://img.shields.io/badge/Ollama-000000?logo=ollama&logoColor=white)  ![LLaMA](https://img.shields.io/badge/LLaMA-FF4500?logo=meta&logoColor=white)
 
 **Security Standards & Regulatory Compliance**  
+
 ![OWASP LLM Top 10](https://img.shields.io/badge/OWASP-LLM%20Top--10-red?logo=owasp&logoColor=white)  ![OWASP Machine Learning Security Top 10](https://img.shields.io/badge/OWASP-ML%20Top--10-purple?logo=owasp&logoColor=white)  ![OWASP Agentic AI Threats](https://img.shields.io/badge/OWASP-Agentic--AI--Threats-orange?logo=owasp&logoColor=white)  ![GDPR AI](https://img.shields.io/badge/GDPR-AI-blue?logo=gdpr&logoColor=white)  ![ISO/IEC 42001:2023](https://img.shields.io/badge/ISO--IEC-42001:2023-green?logo=iso&logoColor=white)  ![NIST AI RMF](https://img.shields.io/badge/NIST-AI%20RMF-blue?logo=gov&logoColor=white)  ![MITRE ATLAS](https://img.shields.io/badge/MITRE-ATLAS-red?logo=mitre&logoColor=white)
 
 ### Running Experiments
