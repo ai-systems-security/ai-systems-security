@@ -1,6 +1,6 @@
 # AI Systems Security Experiments 🛡️🤖
 
-[![Profile Views](https://komarev.com/ghpvc/?username=ai-systems-security&color=blue)](https://github.com/ai-systems-security)  [![GitHub followers](https://img.shields.io/github/followers/ai-systems-security?label=Follow&style=social)](https://github.com/ai-systems-security?tab=followers)  [![GitHub stars](https://img.shields.io/github/stars/ai-systems-security?style=social)](https://github.com/ai-systems-security)
+[![Profile Views](https://komarev.com/ghpvc/?username=ai-systems-security&color=blue)](https://github.com/ai-systems-security)  [![GitHub stars](https://img.shields.io/github/stars/ai-systems-security?style=social)](https://github.com/ai-systems-security)  [![GitHub followers](https://img.shields.io/github/followers/ai-systems-security?label=Follow&style=social)](https://github.com/ai-systems-security?tab=followers) 
 
 Welcome to my **AI Systems Security Experiments** profile! This repository collection explores **security risks in AI Agents** and **adversarial machine learning in financial AI systems**.  Hands-on projects demonstrate vulnerabilities in multi-agent systems, unsafe AI operations, and adversarial attacks on machine learning models.
 
