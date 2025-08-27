@@ -54,7 +54,7 @@ Hands-on projects demonstrate vulnerabilities in multi-agent systems, unsafe AI 
 
 ### Running Experiments
 - Agent experiments: `jupyter notebook: excessive_db_agency1.ipynb, excessive_db_agency2.ipynb`  
-- Adversarial ML on credit scoring: `jupyter notebook: bim_attack-art-logistic_regression.ipynb, cw_attack-art-logistic_regression.ipynb, deepfool_attack-art-logistic_regression.ipynb, ead_attack-art-logistic_regression.ipynb, fgm_attack-art-logistic_regression.ipynb, jsma_attack-art-logistic_regression.ipynb, pgd_attack-art-logistic_regression.ipynb`
+- Adversarial ML on credit scoring: `jupyter notebook: bim_attack-art-logistic_regression.ipynb, cw_attack-art-logistic_regression.ipynb, deepfool_attack-art-logistic_regression.ipynb, ead_attack-art-logistic_regression.ipynb, fgm_attack-art-logistic_regression.ipynb, jsma_attack-art-logistic_regression.ipynb, pgd_attack-art-logistic_regression.ipynb, boundary _attack(targeted)_attack-art-logistic_regression.ipynb, boundary _attack(untargeted)_attack-art-logistic_regression.ipynb, hsj_attack-art-logistic_regression.ipynb, zoo_attack-art-logistic_regression.ipynb`
 
 ---
 
