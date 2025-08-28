@@ -45,14 +45,14 @@ Welcome to my **AI Systems Security Experiments** profile! This repository colle
 [![OWASP LLM Top 10](https://img.shields.io/badge/OWASP-LLM%20Top--10-red?logo=owasp&logoColor=white)](https://owasp.org/www-project-top-10-for-large-language-model-applications/)  [![OWASP ML Top 10](https://img.shields.io/badge/OWASP-ML%20Top--10-purple?logo=owasp&logoColor=white)](https://owasp.org/www-project-machine-learning-security-top-10/)  [![OWASP Agentic AI Threats](https://img.shields.io/badge/OWASP-Agentic--AI--Threats-orange?logo=owasp&logoColor=white)](https://genai.owasp.org/resource/agentic-ai-threats-and-mitigations/)  [![NIST AI RMF](https://img.shields.io/badge/NIST-AI%20RMF-blue?logo=gov&logoColor=white)](https://www.nist.gov/itl/ai-risk-management-framework)  [![MITRE ATLAS](https://img.shields.io/badge/MITRE-ATLAS-red?logo=mitre&logoColor=white)](https://atlas.mitre.org/)  [![GDPR AI](https://img.shields.io/badge/GDPR-AI-blue?logo=gdpr&logoColor=white)](https://gdpr-info.eu/)  [![ISO/IEC 42001:2023](https://img.shields.io/badge/ISO--IEC%2042001:2023-green?logo=iso&logoColor=white)](https://www.iso.org/standard/42001)  
 
 ### Running Experiments
-- Agent experiments: `jupyter notebook: excessive_db_agency1.ipynb, excessive_db_agency2.ipynb`  
-- Adversarial ML on credit scoring: `jupyter notebook: bim_attack-art-logistic_regression.ipynb, cw_attack-art-logistic_regression.ipynb, deepfool_attack-art-logistic_regression.ipynb, ead_attack-art-logistic_regression.ipynb, fgm_attack-art-logistic_regression.ipynb, jsma_attack-art-logistic_regression.ipynb, pgd_attack-art-logistic_regression.ipynb, boundary _attack(targeted)_attack-art-logistic_regression.ipynb, boundary _attack(untargeted)_attack-art-logistic_regression.ipynb, hsj_attack-art-logistic_regression.ipynb, zoo_attack-art-logistic_regression.ipynb`
+- **Agent experiments**: `jupyter notebook: excessive_db_agency1.ipynb, excessive_db_agency2.ipynb`  
+- **Adversarial ML on credit scoring**: `jupyter notebook: bim_attack-art-logistic_regression.ipynb, cw_attack-art-logistic_regression.ipynb, deepfool_attack-art-logistic_regression.ipynb, ead_attack-art-logistic_regression.ipynb, fgm_attack-art-logistic_regression.ipynb, jsma_attack-art-logistic_regression.ipynb, pgd_attack-art-logistic_regression.ipynb, boundary _attack(targeted)_attack-art-logistic_regression.ipynb, boundary _attack(untargeted)_attack-art-logistic_regression.ipynb, hsj_attack-art-logistic_regression.ipynb, zoo_attack-art-logistic_regression.ipynb`
 
 ---
 
 ## 👨‍💻 About Me
 
-- 👨‍💻 I am an **AI Security Engineer** with a Masters Degree in **Cybersecurity** and **AI** specializing in agentic AI security, multi-agent system vulnerabilities, and adversarial machine learning.  
+- 👨‍💻 I am an **AI Security Engineer** with a Masters Degree in **Cybersecurity** and **AI** specialized in agentic AI security, multi-agent system vulnerabilities, and adversarial machine learning.  
 - 🔭 I’m currently working on **attacking and securing agentic AI systems**, including multi-agent frameworks, LangGraph experiments, and adversarial ML in financial AI.  
 - 👯 I’m looking to collaborate on **open-source AI security tools, threat simulations, and RAG-based LLM safety experiments**.  
 - 🤔 I’m looking for help with **developing robust multi-agent security policies and automated monitoring for agentic AI**.  
