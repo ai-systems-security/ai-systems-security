@@ -34,7 +34,7 @@ Welcome to my **AI Systems Security Experiments** profile! This repository colle
 
 **Databases & Graphs**  
 
-[![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?logo=neo4j&logoColor=white)](https://neo4j.com/)  ![CromaDB](https://img.shields.io/badge/CromaDB-00A1E4?logo=postgresql&logoColor=white)  [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)](https://www.postgresql.org/)  
+[![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?logo=neo4j&logoColor=white)](https://neo4j.com/)  ![CromaDB](https://img.shields.io/badge/CromaDB-00A1E4?logo=github&logoColor=white)  [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)](https://www.postgresql.org/)  
 
 **LLM & Agents**  
 
