@@ -55,7 +55,7 @@ Welcome to my **AI Systems Security Experiments** profile! This repository colle
 - 👨‍💻 I am an **AI Security Engineer** with a Masters Degree in **Cybersecurity** and **AI** specialized in agentic AI security, multi-agent system vulnerabilities, and adversarial machine learning.  
 - 🔭 I’m currently working on **attacking and securing agentic AI systems**, including multi-agent frameworks, LangGraph experiments, and adversarial ML in financial AI.  
 - 👯 I’m looking to collaborate on **open-source AI security tools, threat simulations, and RAG-based LLM safety experiments**.  
-- 🤔 I’m looking for help with **developing robust multi-agent security policies and automated monitoring for agentic AI**.  
+- 🤔 I’m also looking to collaborate on **developing robust multi-agent security policies and automated monitoring for agentic AI**.  
 - 💬 Ask me about **LLM prompt injection, multi-agent security attacks, adversarial ML in finance, and ethical AI deployment**.  
 - 📫 How to reach me: **[beteaberra@gmail.com]**  
 - ⚡ Fun fact: **I'm tying to run experiments where AI agents try to hack themselves… safely, of course 😉**
