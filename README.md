@@ -62,11 +62,6 @@ Welcome to my **AI Systems Security Experiments** profile! This repository colle
 
 ---
 
-## 📊 GitHub Stats
-![ai-systems-security's GitHub stats](https://github-readme-stats.vercel.app/api?username=ai-systems-security&show_icons=true&hide_title=true&count_private=true&theme=radical&cache_seconds=30)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ai-systems-security&layout=compact&theme=radical&cache_seconds=30)
-
----
-
 ## ⚠️ Security Notes
 - For **educational purposes only**.  
 - Do **not deploy vulnerable agents** or ML models in production.  
